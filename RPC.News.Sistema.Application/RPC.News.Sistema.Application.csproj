@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RPC.News.Sistema.Domain\RPC.News.Sistema.Domain.csproj" />
+    <ProjectReference Include="..\RPC.News.Sistema.Infra\RPC.News.Sistema.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
